@@ -57,61 +57,7 @@ function license() {
     if (typeof $license_key === _0x1c7063(0x21f))
         _0x59a12f(_0x1c7063(0x12e));
     else {
-        if (typeof $license_item === _0x1c7063(0x21f))
-            _0x59a12f(_0x1c7063(0x132));
-        else {
-            if (location[_0x1c7063(0x212)]['indexOf'](_0x1c7063(0x287)) != -0x1 || location['hostname'][_0x1c7063(0x11a)](_0x1c7063(0x16c)) != -0x1 || location[_0x1c7063(0x212)][_0x1c7063(0x11a)](_0x1c7063(0x1ec)) != -0x1) {
-                console['log']('Developed\x20by.\x20https://kangrian.net\x20(\x20Free\x20/\x20Trial\x20Version\x20)');
-                var _0x3711dc = document[_0x1c7063(0x164)]('copyright');
-                if (_0x3711dc === null)
-                    _0x59a12f('<b>Hargailah\x20Hak\x20Cipta</b><br><br><small>Gunakan\x20\x22Lisensi\x20Premium\x22\x20untuk\x20menghapus\x20credit.</small><br><br><small>#ERR_COPYRIGHT</small>');
-                else {
-                    var _0xd5bdf5 = new Date()[_0x1c7063(0x122)]();
-                    _0x3711dc[_0x1c7063(0x175)] = _0x1c7063(0x1d9) + _0xd5bdf5 + '\x20&#8212;\x20Made\x20with.\x20<a\x20href=\x22https://lapak.kangrian.net/' + $license_item + '\x22\x20target=\x22_blank\x22><b>Kr</b></a>',
-                    _0x3711dc[_0x1c7063(0x2d0)](_0x1c7063(0x2cd), 'display:inline-block!important;opacity:1!important;position:static!important;visibility:visible!important;text-indent:0px!important;color:currentColor!important');
-                }
-            } else {
-                if ($license_key === '')
-                    _0x59a12f(_0x1c7063(0x132));
-                    _0x59a12f(_0x1c7063(0x267) + _0x4352db + _0x1c7063(0x155));
-                function _0x5ea708(_0x3a56ff) {
-                                    var _0x65574e = _0x1c7063;
-                                    _0x3a56ff = _0x3a56ff[_0x65574e(0x28e)]('\x20');
-                                    for (var _0x9f134f = 0x0; _0x9f134f < _0x3a56ff[_0x65574e(0x136)]; _0x9f134f++) {
-                                        _0x3a56ff[_0x9f134f] = _0x3a56ff[_0x9f134f][_0x65574e(0x22e)](0x0)[_0x65574e(0x17a)]() + _0x3a56ff[_0x9f134f][_0x65574e(0x22b)](0x1);
-                                    }
-                                    return _0x3a56ff = _0x3a56ff[_0x65574e(0x191)]('\x20'),
-                                    _0x3a56ff;
-                                }
-                                _0x59a12f(_0x1c7063(0x2be) + _0x5ea708($license_item[_0x1c7063(0x2b8)]('-', '\x20')) + _0x1c7063(0x262));
-                    /*_0x59a12f(_0x1c7063(0x2cb));*/
-                else {
-                    const _0x4352db = _0x4ca65b($license_key)[_0x1c7063(0x28e)]('|')[0x0]
-                      , _0x25bef4 = _0x4ca65b($license_key)[_0x1c7063(0x28e)]('|')[0x1];
-                    if (_0x4352db == '' || _0x4352db == undefined)
-                        _0x59a12f('<b>Kode\x20Lisensi</b>\x20yang\x20digunakan\x20tidak\x20valid.</b><br><br><small>#ERR_KEY</small>');
-                    else {
-                        if (location[_0x1c7063(0x212)][_0x1c7063(0x11a)](_0x4352db) == -0x1)
-                            _0x59a12f(_0x1c7063(0x267) + _0x4352db + _0x1c7063(0x155));
-                        else {
-                            if (_0x25bef4 != $license_item) {
-                                function _0x5ea708(_0x3a56ff) {
-                                    var _0x65574e = _0x1c7063;
-                                    _0x3a56ff = _0x3a56ff[_0x65574e(0x28e)]('\x20');
-                                    for (var _0x9f134f = 0x0; _0x9f134f < _0x3a56ff[_0x65574e(0x136)]; _0x9f134f++) {
-                                        _0x3a56ff[_0x9f134f] = _0x3a56ff[_0x9f134f][_0x65574e(0x22e)](0x0)[_0x65574e(0x17a)]() + _0x3a56ff[_0x9f134f][_0x65574e(0x22b)](0x1);
-                                    }
-                                    return _0x3a56ff = _0x3a56ff[_0x65574e(0x191)]('\x20'),
-                                    _0x3a56ff;
-                                }
-                                _0x59a12f(_0x1c7063(0x2be) + _0x5ea708($license_item[_0x1c7063(0x2b8)]('-', '\x20')) + _0x1c7063(0x262));
-                            } else
-                                console['log']('Developed\x20by.\x20https://kangrian.net\x20(\x20Premium\x20Version\x20)');
-                        }
-                    }
-                }
-            }
-        }
+        _0x59a12f(_0x1c7063(0x12e));
     }
 }
 window[_0x173287(0x205)] = function() {
