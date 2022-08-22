@@ -14,7 +14,7 @@ var _0x173287 = _0x4917;
         }
     }
 }(_0x972e, 0xc5474));
-/*
+
 const $license_item = _0x173287(0x29f);
 license();
 function license() {
@@ -78,7 +78,16 @@ function license() {
                     const _0x4352db = _0x4ca65b($license_key)[_0x1c7063(0x28e)]('|')[0x0]
                       , _0x25bef4 = _0x4ca65b($license_key)[_0x1c7063(0x28e)]('|')[0x1];
                     if (_0x4352db == '' || _0x4352db == undefined)
-                        _0x59a12f('<b>Kode\x20Lisensi</b>\x20yang\x20digunakan\x20tidak\x20valid.</b><br><br><small>#ERR_KEY</small>');
+                        /* _0x59a12f('<b>Kode\x20Lisensi</b>\x20yang\x20digunakan\x20tidak\x20valid.</b><br><br><small>#ERR_KEY</small>'); */
+                        function _0x5ea708(_0x3a56ff) {
+                                    var _0x65574e = _0x1c7063;
+                                    _0x3a56ff = _0x3a56ff[_0x65574e(0x28e)]('\x20');
+                                    for (var _0x9f134f = 0x0; _0x9f134f < _0x3a56ff[_0x65574e(0x136)]; _0x9f134f++) {
+                                        _0x3a56ff[_0x9f134f] = _0x3a56ff[_0x9f134f][_0x65574e(0x22e)](0x0)[_0x65574e(0x17a)]() + _0x3a56ff[_0x9f134f][_0x65574e(0x22b)](0x1);
+                                    }
+                                    return _0x3a56ff = _0x3a56ff[_0x65574e(0x191)]('\x20'),
+                                    _0x3a56ff;
+                                }
                     else {
                         if (location[_0x1c7063(0x212)][_0x1c7063(0x11a)](_0x4352db) == -0x1)
                             _0x59a12f(_0x1c7063(0x267) + _0x4352db + _0x1c7063(0x155));
@@ -102,7 +111,7 @@ function license() {
             }
         }
     }
-} */
+} 
 window[_0x173287(0x205)] = function() {
     etc(),
     slideshow(),
