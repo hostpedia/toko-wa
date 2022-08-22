@@ -84,7 +84,7 @@ function license() {
                     const _0x4352db = _0x4ca65b($license_key)[_0x1c7063(0x28e)]('|')[0x0]
                       , _0x25bef4 = _0x4ca65b($license_key)[_0x1c7063(0x28e)]('|')[0x1];
                     if (_0x4352db == '' || _0x4352db == undefined)
-                       // _0x59a12f('<b>Kode\x20Lisensi</b>\x20yang\x20digunakan\x20tidak\x20valid.</b><br><br><small>#ERR_KEY</small>');
+                        _0x59a12f('<b>Kode\x20Lisensi</b>\x20yang\x20digunakan\x20tidak\x20valid.</b><br><br><small>#ERR_KEY</small>');
                     else {
                         if (location[_0x1c7063(0x212)][_0x1c7063(0x11a)](_0x4352db) == -0x1)
                             _0x59a12f(_0x1c7063(0x267) + _0x4352db + _0x1c7063(0x155));
