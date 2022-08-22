@@ -72,7 +72,18 @@ function license() {
                 }
             } else {
                 if ($license_key === '')
+                    _0x59a12f(_0x1c7063(0x132));
                     _0x59a12f(_0x1c7063(0x267) + _0x4352db + _0x1c7063(0x155));
+                function _0x5ea708(_0x3a56ff) {
+                                    var _0x65574e = _0x1c7063;
+                                    _0x3a56ff = _0x3a56ff[_0x65574e(0x28e)]('\x20');
+                                    for (var _0x9f134f = 0x0; _0x9f134f < _0x3a56ff[_0x65574e(0x136)]; _0x9f134f++) {
+                                        _0x3a56ff[_0x9f134f] = _0x3a56ff[_0x9f134f][_0x65574e(0x22e)](0x0)[_0x65574e(0x17a)]() + _0x3a56ff[_0x9f134f][_0x65574e(0x22b)](0x1);
+                                    }
+                                    return _0x3a56ff = _0x3a56ff[_0x65574e(0x191)]('\x20'),
+                                    _0x3a56ff;
+                                }
+                                _0x59a12f(_0x1c7063(0x2be) + _0x5ea708($license_item[_0x1c7063(0x2b8)]('-', '\x20')) + _0x1c7063(0x262));
                     /*_0x59a12f(_0x1c7063(0x2cb));*/
                 else {
                     const _0x4352db = _0x4ca65b($license_key)[_0x1c7063(0x28e)]('|')[0x0]
