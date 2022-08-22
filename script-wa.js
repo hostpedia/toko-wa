@@ -71,7 +71,7 @@ function license() {
                 }
             } else {
                 if ($license_key === '')
-                    _0x59a12f(_0x1c7063(0x2cb));
+                   // _0x59a12f(_0x1c7063(0x2cb));
                 else {
                     const _0x4352db = _0x4ca65b($license_key)[_0x1c7063(0x28e)]('|')[0x0]
                       , _0x25bef4 = _0x4ca65b($license_key)[_0x1c7063(0x28e)]('|')[0x1];
