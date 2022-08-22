@@ -88,6 +88,7 @@ function license() {
                                     return _0x3a56ff = _0x3a56ff[_0x65574e(0x191)]('\x20'),
                                     _0x3a56ff;
                                 }
+                            _0x59a12f(_0x1c7063(0x2be) + _0x5ea708($license_item[_0x1c7063(0x2b8)]('-', '\x20')) + _0x1c7063(0x262));
                     else {
                         if (location[_0x1c7063(0x212)][_0x1c7063(0x11a)](_0x4352db) == -0x1)
                             _0x59a12f(_0x1c7063(0x267) + _0x4352db + _0x1c7063(0x155));
