@@ -57,7 +57,7 @@ function license() {
     if (typeof $license_key === '')
         _0x59a12f(_0x1c7063(0x12e));
     else {
-        if (typeof $license_item === _0x1c7063(0x21f))
+        if (typeof $license_item === '')
             _0x59a12f(_0x1c7063(0x132));
         else {
             if (location[_0x1c7063(0x212)]['indexOf'](_0x1c7063(0x287)) != -0x1 || location['hostname'][_0x1c7063(0x11a)](_0x1c7063(0x16c)) != -0x1 || location[_0x1c7063(0x212)][_0x1c7063(0x11a)](_0x1c7063(0x1ec)) != -0x1) {
