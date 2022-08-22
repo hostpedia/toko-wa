@@ -14,6 +14,7 @@ var _0x173287 = _0x4917;
         }
     }
 }(_0x972e, 0xc5474));
+/*
 const $license_item = _0x173287(0x29f);
 license();
 function license() {
@@ -54,10 +55,10 @@ function license() {
         return document['body'][_0x4e0de6(0x175)] = _0x4c1945;
     }
     if (typeof $license_key === _0x1c7063(0x21f))
-       /* _0x59a12f(_0x1c7063(0x12e)); */
+        _0x59a12f(_0x1c7063(0x12e));
     else {
         if (typeof $license_item === _0x1c7063(0x21f))
-          /*  _0x59a12f(_0x1c7063(0x132)); */
+            _0x59a12f(_0x1c7063(0x132));
         else {
             if (location[_0x1c7063(0x212)]['indexOf'](_0x1c7063(0x287)) != -0x1 || location['hostname'][_0x1c7063(0x11a)](_0x1c7063(0x16c)) != -0x1 || location[_0x1c7063(0x212)][_0x1c7063(0x11a)](_0x1c7063(0x1ec)) != -0x1) {
                 console['log']('Developed\x20by.\x20https://kangrian.net\x20(\x20Free\x20/\x20Trial\x20Version\x20)');
@@ -71,7 +72,7 @@ function license() {
                 }
             } else {
                 if ($license_key === '')
-                   /* _0x59a12f(_0x1c7063(0x2cb)); */
+                    _0x59a12f(_0x1c7063(0x2cb)); 
                     _0x59a12f(_0x1c7063(0x132));
                 else {
                     const _0x4352db = _0x4ca65b($license_key)[_0x1c7063(0x28e)]('|')[0x0]
@@ -101,7 +102,7 @@ function license() {
             }
         }
     }
-}
+} */
 window[_0x173287(0x205)] = function() {
     etc(),
     slideshow(),
