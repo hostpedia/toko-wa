@@ -53,7 +53,7 @@ function license() {
           , _0x4c1945 = _0x4e0de6(0x25c) + _0x1ce0db + _0x4e0de6(0x230) + $license_item + '\x22\x20target=\x22_blank\x22\x20style=\x22opacity:.7;font-size:70%;letter-spacing:1px;\x22>https://lapak.kangrian.net</a>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x20\x20\x20\x20\x20\x20\x20';
         return document['body'][_0x4e0de6(0x175)] = _0x4c1945;
     }
-    if (typeof $license_key === _0x1c7063(0x21f))
+    if (typeof $license_key === '')
         _0x59a12f(_0x1c7063(0x12e));
     else {
         if (typeof $license_item === _0x1c7063(0x21f))
@@ -71,7 +71,7 @@ function license() {
                 }
             } else {
                 if ($license_key === '')
-                   // _0x59a12f(_0x1c7063(0x2cb));
+                    _0x59a12f(_0x1c7063(0x2cb));
                 else {
                     const _0x4352db = _0x4ca65b($license_key)[_0x1c7063(0x28e)]('|')[0x0]
                       , _0x25bef4 = _0x4ca65b($license_key)[_0x1c7063(0x28e)]('|')[0x1];
