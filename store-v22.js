@@ -53,53 +53,7 @@ function license() {
           , _0x58a14a = _0x480b11(0x154) + _0xdb9d19 + _0x480b11(0x1e1) + $license_item + '\x22\x20target=\x22_blank\x22\x20style=\x22opacity:.7;font-size:70%;letter-spacing:1px;\x22>https://lapak.kangrian.net</a>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x20\x20\x20\x20\x20\x20\x20\x20';
         return document[_0x480b11(0x178)][_0x480b11(0x1de)] = _0x58a14a;
     }
-    if (typeof $license_key === 'undefined')
-        _0x1edca4(_0x42d925(0x115));
-    else {
-        if (typeof $license_item === _0x42d925(0x11c))
-            _0x1edca4(_0x42d925(0x144));
-        else {
-            if (location[_0x42d925(0x1dd)][_0x42d925(0x1a0)](_0x42d925(0x106)) != -0x1 || location[_0x42d925(0x1dd)][_0x42d925(0x1a0)]('.blogspot.com') != -0x1 || location[_0x42d925(0x1dd)][_0x42d925(0x1a0)](_0x42d925(0xd3)) != -0x1) {
-                console[_0x42d925(0x1e5)](_0x42d925(0xff));
-                var _0x5c4171 = document['getElementById'](_0x42d925(0x1ba));
-                if (_0x5c4171 === null)
-                    _0x1edca4(_0x42d925(0x160));
-                else {
-                    var _0xaeff4d = new Date()[_0x42d925(0xda)]();
-                    _0x5c4171['innerHTML'] = _0x42d925(0x150) + _0xaeff4d + _0x42d925(0x1d4) + $license_item + _0x42d925(0x11d),
-                    _0x5c4171[_0x42d925(0xc2)](_0x42d925(0x177), _0x42d925(0x163));
-                }
-            } else {
-                if ($license_key === '')
-                    _0x1edca4(_0x42d925(0xfb));
-                else {
-                    const _0x553558 = _0x1e79a6($license_key)[_0x42d925(0x127)]('|')[0x0]
-                      , _0x39e79a = _0x1e79a6($license_key)['split']('|')[0x1];
-                    if (_0x553558 == '' || _0x553558 == undefined)
-                        _0x1edca4(_0x42d925(0x108));
-                    else {
-                        if (location[_0x42d925(0x1dd)][_0x42d925(0x1a0)](_0x553558) == -0x1)
-                            _0x1edca4('<b>Kode\x20Lisensi</b>\x20hanya\x20bisa\x20digunakan\x20pada\x20website\x20dengan\x20domain\x20:\x20<b>' + _0x553558 + '</b><br><br><small>#ERR_DOMAIN</small>');
-                        else {
-                            if (_0x39e79a != $license_item) {
-                                function _0x2560a8(_0x49d382) {
-                                    var _0x30d70c = _0x42d925;
-                                    _0x49d382 = _0x49d382[_0x30d70c(0x127)]('\x20');
-                                    for (var _0x390963 = 0x0; _0x390963 < _0x49d382[_0x30d70c(0xfd)]; _0x390963++) {
-                                        _0x49d382[_0x390963] = _0x49d382[_0x390963]['charAt'](0x0)[_0x30d70c(0x13d)]() + _0x49d382[_0x390963][_0x30d70c(0x10f)](0x1);
-                                    }
-                                    return _0x49d382 = _0x49d382[_0x30d70c(0x12e)]('\x20'),
-                                    _0x49d382;
-                                }
-                                _0x1edca4('<b>Kode\x20Lisensi</b>\x20hanya\x20bisa\x20digunakan\x20untuk\x20<b>' + _0x2560a8($license_item['replaceAll']('-', '\x20')) + _0x42d925(0x15d));
-                            } else
-                                console[_0x42d925(0x1e5)]('Developed\x20by.\x20https://kangrian.net\x20(\x20Premium\x20Version\x20)');
-                        }
-                    }
-                }
-            }
-        }
-    }
+
 }
 window['onload'] = function() {
     etc(),
