@@ -70,6 +70,7 @@ window[_0x173287(0x205)] = function() {
     timeago(),
     translate(),
     custom_js();
+    live_sales_sync();
 }
 ;
 function cart() {
