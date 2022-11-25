@@ -227,7 +227,7 @@ function post_convert() {
         }
         _0x50dc89['hasClass'](_0x42ea79(0x145)) && (_0x1720e7 == 'off' ? _0x210989 += '<div\x20class=\x22cta\x22><a\x20class=\x22link\x20off\x22\x20href=\x22#off\x22>' + $_config[_0x42ea79(0x1c6)][_0x42ea79(0x188)] + '</a><a\x20class=\x22bagikan\x22\x20target=\x22pop-bagikan\x22><i\x20class=\x22icon\x22><svg\x20viewBox=\x220\x200\x20512\x20512\x22\x20xmlns=\x22http://www.w3.org/2000/svg\x22><path\x20d=\x22M448\x20248L288\x2096v85.334C138.666\x20202.667\x2085.333\x20309.334\x2064\x20416c53.333-74.666\x20117.333-108.802\x20224-108.802v87.469L448\x20248z\x22/></svg></i></a></div>' : ($admin = encodeURIComponent($(_0x42ea79(0x17b), this)[_0x42ea79(0xcf)]())['replaceAll'](_0x42ea79(0x17a), ''),
         _0x4ee383 = encodeURIComponent($(_0x42ea79(0x10a), this)[_0x42ea79(0xcf)]())['replaceAll']('%0A', ''),
-        _0x210989 += _0x42ea79(0x13b) + (_0x1798e0 ? _0x1798e0 : $_config[_0x42ea79(0x1c6)][_0x42ea79(0x1e7)]) + '&text=' + $_config[_0x42ea79(0x1c6)][_0x42ea79(0x199)]['replaceAll'](_0x42ea79(0x193), $admin)[_0x42ea79(0x167)](_0x42ea79(0x11f), _0x4ee383) + _0x42ea79(0x194) + $_config[_0x42ea79(0x102)]['canonical'] + _0x42ea79(0xef) + $_config[_0x42ea79(0x1c6)]['order_button_text'] + _0x42ea79(0xdc)));
+        _0x210989 += _0x42ea79(0x13b) + (_0x1798e0 ? _0x1798e0 : $_config[_0x42ea79(0x1c6)][_0x42ea79(0x1e7)]) + $_config[_0x42ea79(0x1c6)][_0x42ea79(0x199)]['replaceAll'](_0x42ea79(0x193), $admin)[_0x42ea79(0x167)](_0x42ea79(0x11f), _0x4ee383) + _0x42ea79(0x194) + $_config[_0x42ea79(0x102)]['canonical'] + _0x42ea79(0xef) + $_config[_0x42ea79(0x1c6)]['order_button_text'] + _0x42ea79(0xdc)));
         var _0x4ee383 = $(_0x42ea79(0x195), this);
         $(_0x210989)[_0x42ea79(0x128)](_0x4ee383);
     });
